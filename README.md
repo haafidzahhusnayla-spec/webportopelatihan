@@ -1,4 +1,4 @@
-# 🌊 my-porto — Muhammad Fari Madyan
+# 🌊 my-porto —Haafidzah Husnayla
 
 > **Portofolio Profesional Web Developer & Siswa Rekayasa Perangkat Lunak (RPL) SMK Telkom Lampung**  
 > Didesain dengan estetika modern **Bioluminescent Deep Sea Glassmorphism** (terinspirasi dari [sea-blue-portfolio-pwhk.vercel.app](https://sea-blue-portfolio-pwhk.vercel.app)).
@@ -6,7 +6,7 @@
 ---
 
 ## 👤 Identitas Pengembang
-- **Nama Lengkap**: Muhammad Fari Madyan
+- **Nama Lengkap**: Haafidzah Husnayla
 - **Sekolah / Jurusan**: SMK Telkom Lampung — Rekayasa Perangkat Lunak (RPL)
 - **Role**: Web Developer (Front-End Specialist & Full-Stack Explorer)
 - **Domisili**: Lampung, Indonesia 🇮🇩
@@ -33,7 +33,7 @@
     - **Portal Siswa & Modul RPL SMK Telkom Lampung** (Sistem Informasi Sekolah).
     - **Eksplor Lampung: Panduan Wisata Bahari & Alam** (Portal Pariwisata Pantai Gigi Hiu, Teluk Kiluan, dll).
     - **TokoKito — E-Katalog Produk Khas Lampung** (Katalog UMKM Kopi Robusta & Kain Tapis).
-11. **🎮 Terminal Konsol Status Player RPG**: Kartu status gamifikasi `FARI_MADYAN.EXE` dengan bar HP/MP, radar pemindaian lokasi, atribut status, dan Quest Log magang.
+11. **🎮 Terminal Konsol Status Player RPG**: Kartu status gamifikasi `JEJE_MADYAN.EXE` dengan bar HP/MP, radar pemindaian lokasi, atribut status, dan Quest Log magang.
 12. **❓ FAQ Accordion**: Pertanyaan seputar ketersediaan magang (PKL), estimasi pengerjaan, dan alur kolaborasi.
 13. **📬 Formulir Kontak & WhatsApp Generator**: Form pesan interaktif yang secara otomatis membuat tautan chat langsung ke WhatsApp Fari.
 14. **🤖 Floating FariBot (AI Virtual Assistant)**: Asisten interaktif melayang yang siap menjawab pertanyaan cepat pengunjung seputar Fari.
@@ -76,5 +76,5 @@ git push -u origin main
 
 ---
 
-© 2026 **Muhammad Fari Madyan** — Rekayasa Perangkat Lunak (RPL) SMK Telkom Lampung.
+© 2026 **Haafidzah Husnayla** — Rekayasa Perangkat Lunak (RPL) SMK Telkom Lampung.
 
